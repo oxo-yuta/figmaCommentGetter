@@ -1,0 +1,14 @@
+{
+  "name": "figmaCommentGetter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^16.4.5"
+  }
+}
